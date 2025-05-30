@@ -1,0 +1,15 @@
+# PRACTICA 7 : Buses de comunicación III (I2S)
+
+El objetivo de esta práctica es demostrar la reproducción de audio desde una memoria externa (tarjeta SD) utilizando un microcontrolador ESP32 y un decodificador de audio I2S .
+
+## Ejercicio Práctico 1 reproducción desde memoria externa
+Hemos conectado la ESP32 a un lector SD y a un adaptador para poder enchufar un altavoz y poder escuchar el sonido que hayamos elegido. 
+
+#### Código está en GitHub
+
+### Resultado de la salida
+En la salida hemos podido escuchar un sonido .wave que hemos introducido previamente en la tarjeta SD.  
+
+
+
+> Written with [StackEdit](https://stackedit.io/).
